@@ -1,0 +1,17 @@
+.homeMain {
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 50vh;
+  width: 100vw;
+  object-fit: cover;
+}
+
+p {
+  margin: 100px;
+  text-align: center;
+  align-items: center;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.mainNavHeader {
+    background-color: #c7e40e;
+}
+
+.headerIcon {
+    height: 30px;
+}
+
+.mainNavHeader .leftSide {
+    display: flex;
+    margin: 0 70px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerNav {
+    align-items: center;
+}
+
+.routes{
+    margin-left: 20px;
+    color: rgb(6, 0, 0);
+    text-decoration: none;
+}
