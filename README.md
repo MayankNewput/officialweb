@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # officialweb
-=======
+
+A web application created using HTML, CSS and JavaScript.
 # Getting Started with React App
 
 Run the commands to get started with the React app:
